@@ -1,0 +1,3 @@
+vue create nombre_app
+npm run serve
+vue add vuetify
