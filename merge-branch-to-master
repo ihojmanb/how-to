@@ -1,0 +1,6 @@
+1. change branch to master
+  git checkout master
+2. merge your branch named <new_feature> with master
+  git merge <new_feature>
+3. push master
+  git push 
