@@ -25,7 +25,7 @@ Push the changes in your local repository to GitHub.
 $git push -u origin master
 
 
-Errores:
+Errors:
 "fatal: remote origin already exists”
 -> TL;DR you should just update the existing remote:
 
