@@ -1,20 +1,22 @@
-Create new Repo on github
-Open Terminal.
-Change the current working directory to your local project.
-Initialize the local directory as a Git repository.
+# 1. Create new Repo on github
+# 2. Open Terminal.
+# 3. Change the current working directory to your local project.
+# 4.Initialize the local directory as a Git repository.
+
   $ git init
-Add the files in your new local repository. This stages them for the first commit.
+# 5. Add the files in your new local repository. This stages them for the first commit.
 
   $ git add .
-Commit the files that you've staged in your local repository.
+# 6.Commit the files that you've staged in your local repository.
 
   $ git commit -m "First commit"
-At the top of your GitHub repository's Quick Setup page, click  to copy the remote repository URL.
-In Terminal, add the URL for the remote repository where your local repository will be pushed.
+# 7. At the top of your GitHub repository's Quick Setup page, click  to copy the remote repository URL.
+# In Terminal. On the next command, replace <remote_repository_URL> with the URL for the remote repository where your local repository will be pushed.
 
-  $ git remote add origin remote repository URL# Sets the new remote
+# 8. Set the new remote repo
+  $ git remote add origin <remote_repository_URL>
+# 9. Verifies the new remote URL
   $ git remote -v
-  # Verifies the new remote URL
 
-Push the changes in your local repository to GitHub.
+# 10. Push the changes in your local repository to GitHub.
   $ git push origin master
