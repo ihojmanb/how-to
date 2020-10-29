@@ -1,6 +1,0 @@
-1. in terminal, open .bashrc file with text editor
-  atom ~/.bashrc
-2. add alias in file
-  alias aliasname='someCommand'
-3. install new bashrc file with
-  source ~/.bashrc
