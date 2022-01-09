@@ -16,7 +16,9 @@ Lets begin!
 
 1. Download VoiceMeeter Banana
   The first step is to download VoiceMeeter **Banana** (banana, not the other versions). This app (free by the way) will let us re route the sound coming from every app in a 
-  virtual way, leting us play multiple sounds from different sources.  
+  virtual way, leting us play multiple sounds from different sources.
+  
+    link to Download: [VoiceMeeter Banana](https://vb-audio.com/Voicemeeter/banana.htm) 
   
 2. Select VoiceMeeter **input** as your primary sound sorce in the bottom-right corner sound icon
   after installing it, you should be able to select this option  
